@@ -29,3 +29,9 @@ import math
 a=12
 Area= a*a
 print(area)
+
+#AREA TRIANGULO 
+a=12 
+b=12 
+atriag= (a*b)/2
+print(atriag)
