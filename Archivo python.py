@@ -14,3 +14,11 @@ base = 10
 altura = 32
 area = (base*altura)/2
 print (area)
+
+#Área círculo
+import math
+
+pi_num = math.pi
+r = 5
+circulo = 2*pi_num*r**2
+print (circulo)
