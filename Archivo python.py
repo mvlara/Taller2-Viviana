@@ -22,3 +22,10 @@ pi_num = math.pi
 r = 5
 circulo = 2*pi_num*r**2
 print (circulo)
+
+#Área cuadrado
+import math
+
+a=12
+Area= a*a
+print(area)
