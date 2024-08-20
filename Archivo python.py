@@ -22,3 +22,16 @@ pi_num = math.pi
 r = 5
 circulo = 2*pi_num*r**2
 print (circulo)
+
+#Área cuadrado
+import math
+
+a=12
+Area= a*a
+print(area)
+
+#AREA TRIANGULO 
+a=12 
+b=12 
+atriag= (a*b)/2
+print(atriag)
